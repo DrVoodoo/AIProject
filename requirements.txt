@@ -3,3 +3,12 @@ langchain-core
 langchain-huggingface
 langchain-groq
 python-dotenv
+
+langgraph
+langchain-anthropic
+fastapi
+uvicorn[standard]
+pydantic
+requests
+python-multipart
+langchain-openai
